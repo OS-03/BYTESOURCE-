@@ -2,7 +2,7 @@
 
 ByteSource is a Django-based project for managing quizzes and user progress.A dynamic Web Based application for Computer Science E-Learning.This Project was made as a part of Intercollege Hackaton Colloquium (Theme : IT for Smart Campus) 2024.Our team was Selected and was Awarded for the project.
 
-## Installation
+### Installation
 
 1. Clone the repository:
 
@@ -29,12 +29,12 @@ ByteSource is a Django-based project for managing quizzes and user progress.A dy
 6. Run the development server:
    python manage.py runserver
 
-# Usage
+### Usage
 Access the admin panel at http://127.0.0.1:8000/admin/
 Access the main page at http://127.0.0.1:8000/main/
 
-# Contributing
+### Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
-# License
+### License
 This project is licensed under the MIT License.
