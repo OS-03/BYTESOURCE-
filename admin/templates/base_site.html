@@ -1,0 +1,16 @@
+<!-- filepath: /Users/owaisshaikh/Downloads/ByteSource/ByteSource/templates/admin/base_site.html -->
+{% extends "admin/base_site.html" %}
+
+{% block extrahead %}
+{{ block.super }}
+<link rel="stylesheet" type="text/css" href="{% static 'css/custom_admin.css' %}">
+<script type="text/javascript" src="{% static 'js/custom_admin.js' %}"></script>
+{% endblock %}
+
+{% block content %}
+{{ block.super }}
+<div style="text-align: center; margin-top: 20px;">
+    <a href="{% url 'main-page' %}" class="custom-button">Go to Main Page</a>
+    <a href="{% url 'admin:logout' %}" class="custom-button">Logout</a>
+</div>
+{% endblock %}
