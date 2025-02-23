@@ -1,6 +1,6 @@
 # ByteSource
 
-ByteSource is a Django-based project for managing quizzes and user progress.A dynamic Web Based application for Computer Science E-Learning.This Project was made as a part of Intercollege Hackaton Colloquium (Theme : IT for Smart Campus) 2024.Our team was Selected and was Awarded for the project.
+ByteSource is a Django-based project for managing quizzes and user progress.A dynamic Web Based application for Computer Science E-Learning.This Project was made as a part of Intercollege Hackaton Colloquium (Theme : IT for Smart Campus) 2024.Our team was Selected and was Awarded for the project.This Project was developed in 2nd year (4th Semester) of My Course.
 
 ### Installation
 
